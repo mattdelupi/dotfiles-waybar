@@ -46,7 +46,8 @@ window#waybar {
 #backlight,
 #audio,
 #custom-power,
-#hardware {
+#hardware,
+#clock {
     border: 8px;
     border-radius: 6px;
     padding: 2px 5px;
